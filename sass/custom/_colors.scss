@@ -41,3 +41,23 @@
 //$pre-bg: $base03;
 //$pre-border: darken($base02, 5);
 //$pre-color: $base1;
+
+
+// blog.wuyb.com custom colors
+$header-bg: #FFFFFF;
+$subtitle-color: #000000;
+$title-color: #000000;
+
+$main-bg: #FFFFFF !default;
+$page-bg: #FFFFFF !default;
+$page-border-bottom: #FFFFFF !default;
+
+$sidebar-bg: #FFFFFF;
+$sidebar-border: desaturate(darken($sidebar-bg, 7), 10) !default;
+
+$footer-bg-front: #FFFFFF;
+$footer-bg: #FFFFFF;
+$footer-bg-front: #FFFFFF;
+$footer-bg-back: #FFFFFF;
+
+

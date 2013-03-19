@@ -71,14 +71,14 @@ a {
 }
 
 html {
-  background: $page-bg image-url('line-tile.png') top left;
+  background: #FFFFFF;
 }
 body {
   > div {
-    background: $sidebar-bg $noise-bg;
+    background: #FFFFFF;
     border-bottom: 1px solid $page-border-bottom;
     > div {
-      background: $main-bg $noise-bg;
+      background: #FFFFFF;
       border-right: 1px solid $sidebar-border;
     }
   }
