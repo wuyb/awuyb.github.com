@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[[Life alloc] init]"
+title: "life.alloc.init"
 date: 2013-03-20 03:57
 comments: true
 categories: life
